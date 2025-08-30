@@ -1,2 +1,6 @@
 # Ancient-Warfare-2-Conquest-Civilization
-I made the bedrock version of Ancient Warfare 2,but it is still in the testing stage.
+Ancient Warfare 2 is a large mod on the JAVA,and now you can play on the bedrock 1.21.81 version.
+AW:CAC(Ancient Warfare :Conquest & Civilization) is made by Legend Mason Studio.We use the maps of Ancient Warfare 2 and Ancient Warfare:tweaked and refer to their gameplay.
+The code of this project is attributed to our addon developers and AI.If you want to use our code,please contact us.
+By the way,THIS PROJECT IS NOT FINISHED YET.
+(In addition,We thank some code sharers,specificly mentioned in the game.)
