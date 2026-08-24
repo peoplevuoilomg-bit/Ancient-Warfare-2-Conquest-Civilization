@@ -1,7 +1,7 @@
-# Ancient-Warfare-2-Conquest-Civilization
-Ancient Warfare 2 is a large mod on the JAVA,and now you can play on the bedrock 1.21.81 version.
-AW:CAC(Ancient Warfare :Conquest & Civilization) is made by Legend Mason Studio.We use lots of material textures of Ancient Warfare 2 and Ancient Warfare:tweaked and refer to their gameplay.Simplified Chinese, English and Spanish are now supported.
-The code of this project is attributed to our addon developers and AI.If you want to use our code,please contact us.
-By the way,THIS PROJECT IS NOT FINISHED YET.
-(In addition,We thank some code sharers,specificly mentioned in the game.)
+Project Statement — Ancient Warfare 2: Bedrock Edition
 
+Ancient Warfare 2 is a renowned modification originally developed for the Java edition of Minecraft. We are proud to present its ongoing adaptation for Bedrock Edition 1.26.40+.
+
+This project is brought to you by Legend Mason Studio. Our development draws heavily upon the visual assets and gameplay frameworks of both Ancient Warfare 2 and Ancient Warfare: Tweaked, while being independently re-engineered for the Bedrock platform.
+
+Localization is currently available in Simplified Chinese, English, and Spanish, with broader language support under consideration.
